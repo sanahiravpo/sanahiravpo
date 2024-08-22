@@ -2,9 +2,9 @@
 <h3 align="center">A passionate  DotNet Developer from India</h3>
 <img align = "right" alt = "coding" width="400" src = "https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saleejk&label=Profile%20views&color=0e75b6&style=flat" alt="saleejk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanahira&label=Profile%20views&color=0e75b6&style=flat" alt="sanahira" /> </p>
 
-- 🌱 I’m currently learning *DotNet Core*
+- 🌱 I’m currently  *DotNet Core*
 
 - 📫 How to reach me *sanahiravpo@gmail.com*
 
@@ -31,11 +31,11 @@
  <tr> <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></td>
   <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></td>
   <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a></td>
-  <td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a></td>
+
   <td><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </td>
   <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></td>
   <td><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a></td>
-  <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></td>
+ 
  <td><a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> <img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" alt="EnityFramework" width="40" height="40"/> </a></td>
  </tr></table></p></div>
 
