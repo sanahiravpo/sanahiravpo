@@ -38,6 +38,4 @@
  <td><a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> <img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" alt="EnityFramework" width="40" height="40"/> </a></td>
  </tr></table></p></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanahira&show_icons=true&locale=en&layout=compact" alt="sanahira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanahira&show_icons=true&locale=en" alt="sanahira" /></p>
