@@ -33,8 +33,7 @@
   <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a></td>
 
   <td><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </td>
-  <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></td>
-  <td><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a></td>
+ 
  
  <td><a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> <img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" alt="EnityFramework" width="40" height="40"/> </a></td>
  </tr></table></p></div>
