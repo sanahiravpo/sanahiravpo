@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanahira&label=Profile%20views&color=0e75b6&style=flat" alt="sanahira" /> </p>
 
-- 🌱 I’m currently  *DotNet Core*
+- 🌱 I’m currently  *DotNet Core Developer*
 
 - 📫 How to reach me *sanahiravpo@gmail.com*
 
